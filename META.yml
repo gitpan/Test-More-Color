@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Test-More-Color
-version:            0.03
+version:            0.04
 abstract:           Very stupid TAP colorer
 author:
     - coolmen <coolmen78@google.com>
